@@ -1,0 +1,6 @@
+torch
+numpy
+imageio
+imageio-ffmpeg
+opencv-python
+cotracker 
